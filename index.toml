@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "69ef0ba2f9ee4092ce9e2d693d809e55d521e932c03ab313724cab2ecd4ad959"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "815172694b65efb72ca3ad85f23000a3f8ad546c966603b605306a9dcc18e886"
 
@@ -87,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/logical-zoom.pw.toml"
 hash = "8f42e792080ba1e1ee3548a65812cfc8af4919e0991ff26fd08b9950d6614002"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
 metafile = true
 
 [[files]]
