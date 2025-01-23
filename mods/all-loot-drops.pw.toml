@@ -1,0 +1,13 @@
+name = "All Loot Drops"
+filename = "alllootdrops-1.21.4-3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n7PBO6pb/versions/pDB79QxY/alllootdrops-1.21.4-3.4.jar"
+hash-format = "sha512"
+hash = "0a0362221cea3c2a0d1640fa858fbcca5863dc0242e124d1ee2b193ec5f7138061801eb3fe98b73520262c8f476c733984d7768bb965e3d92e722e89f470acaf"
+
+[update]
+[update.modrinth]
+mod-id = "n7PBO6pb"
+version = "pDB79QxY"

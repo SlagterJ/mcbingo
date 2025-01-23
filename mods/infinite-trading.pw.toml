@@ -1,0 +1,13 @@
+name = "Infinite Trading"
+filename = "infinitetrading-1.21.4-4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U3eoZT3o/versions/9orubge1/infinitetrading-1.21.4-4.5.jar"
+hash-format = "sha512"
+hash = "b8704a209944a6d55e1b15d27c4a0de7402ca22d2e482efe65503fe65852b7c5318911e4d74c34d54c7364407bc78b474880bfdaaea1bc89217d32ee3a2deb55"
+
+[update]
+[update.modrinth]
+mod-id = "U3eoZT3o"
+version = "9orubge1"
