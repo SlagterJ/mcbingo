@@ -30,6 +30,16 @@ hash = "4d4dc2500650c6e0c5c7cb85657ae69df9e63f28a939aca4b2c575acc28cd4da"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "ceb248c37ea0d486bc909edb4d86cfd7fe72bde893f9e0a9e1f584f3263db9dd"
 metafile = true
