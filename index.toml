@@ -119,3 +119,8 @@ metafile = true
 file = "mods/yet-another-minecraft-bingo.pw.toml"
 hash = "ea6cbffa95c33e0b2d7eb51edf03d77d2611f60deb76709814dff7a67c5a31df"
 metafile = true
+
+[[files]]
+file = "resourcepacks/new-glowing-ores.pw.toml"
+hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
+metafile = true
