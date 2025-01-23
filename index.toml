@@ -84,6 +84,11 @@ hash = "708f49124651b8e9a555298538d8dee5faa42c43a3ae540c021bc168e069af25"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "21096423fa3fd85998adb691344a775bfd1faadb99881470e72b0e2e429534fd"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
 metafile = true
@@ -96,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "f99e318b31916f54c8a84397ad3ebef068127bbc0b479b236645e0a44e822eeb"
 metafile = true
 
 [[files]]
