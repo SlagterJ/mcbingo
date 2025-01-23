@@ -6,7 +6,7 @@ hash = "69ef0ba2f9ee4092ce9e2d693d809e55d521e932c03ab313724cab2ecd4ad959"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "27eb749a22669bfcc3d7892944a8b917db39eed4e88e91a5ae6a60a99a4648ad"
+hash = "e62bb30b1172f0a8f30bdbb64a47a253d05f0ae1ebfcb0ca0f3bd9c990331750"
 
 [[files]]
 file = "mods/all-loot-drops.pw.toml"
@@ -59,6 +59,11 @@ hash = "49f8089d53aa0e40f6b9551e7931d4f502faf07f0c72fb7e1d6d8bc471a09482"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "2c8cb64defec4a6da9139a9ae3422a0fb18b6fd613ceba3c22e1ebf6c0a92127"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "4c4aa73a3c39122d34c95ca5d2b60c26c81aced32760bde7bb3b9c0dfdfa646c"
 metafile = true
@@ -91,11 +96,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
-metafile = true
-
-[[files]]
-file = "mods/logical-zoom.pw.toml"
-hash = "8f42e792080ba1e1ee3548a65812cfc8af4919e0991ff26fd08b9950d6614002"
 metafile = true
 
 [[files]]

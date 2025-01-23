@@ -23,4 +23,3 @@ key_key.socialInteractions:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
-key_key.logical_zoom.zoom:key.keyboard.c
