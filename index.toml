@@ -6,7 +6,7 @@ hash = "69ef0ba2f9ee4092ce9e2d693d809e55d521e932c03ab313724cab2ecd4ad959"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "815172694b65efb72ca3ad85f23000a3f8ad546c966603b605306a9dcc18e886"
+hash = "27eb749a22669bfcc3d7892944a8b917db39eed4e88e91a5ae6a60a99a4648ad"
 
 [[files]]
 file = "mods/all-loot-drops.pw.toml"
@@ -150,5 +150,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/new-glowing-ores.pw.toml"
-hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
+hash = "af8e9aa455a72115e04850d3aa8f4ff9ffaf9ee920f5f3528f6884d388095139"
 metafile = true

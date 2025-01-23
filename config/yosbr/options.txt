@@ -11,7 +11,7 @@ gamma:1.0
 graphicsMode:2
 maxFps:260
 simulationDistance:8
-resourcePacks:["vanilla","fabric","file/NewGlowingOres-§6[Border]§r.zip"]
+resourcePacks:["vanilla","fabric","file/NewGlowingOres.zip"]
 incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none
