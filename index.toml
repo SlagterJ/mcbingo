@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "815172694b65efb72ca3ad85f23000a3f8ad546c966603b605306a9dcc18e886"
+
+[[files]]
 file = "mods/all-loot-drops.pw.toml"
 hash = "bbf048afda5be91ecd8b53aff0f0fd229ddfa291974a71b08f6756e2fcbafdab"
 metafile = true
@@ -118,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/yet-another-minecraft-bingo.pw.toml"
 hash = "ea6cbffa95c33e0b2d7eb51edf03d77d2611f60deb76709814dff7a67c5a31df"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
