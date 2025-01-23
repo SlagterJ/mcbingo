@@ -6,6 +6,11 @@ hash = "bbf048afda5be91ecd8b53aff0f0fd229ddfa291974a71b08f6756e2fcbafdab"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "fd9f9969ca944b96b307ec7ab7750375420e99da3da22b1dd9b2ac525390f248"
 metafile = true
 
 [[files]]
