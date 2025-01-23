@@ -1,0 +1,13 @@
+name = "Glowing Players"
+filename = "glowing_players-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z5l00wq2/versions/YLlF0TGr/glowing_players-1.0.2.jar"
+hash-format = "sha512"
+hash = "60dd1ac0f89237e105e508152d0b27c8970fde6b78148a6e01078078f5ef8b0bce5e7994875578e3a5e65a34d67d27d783b03608bff8c046f663577700a55898"
+
+[update]
+[update.modrinth]
+mod-id = "z5l00wq2"
+version = "YLlF0TGr"
